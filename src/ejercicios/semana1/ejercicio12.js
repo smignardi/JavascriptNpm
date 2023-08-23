@@ -1,6 +1,6 @@
 "user strict";
 
-import { generarEnteroAleatorio } from "../../utilities/RandomUtilities.js";
+import { generarEnteroAleatorio } from "../../utilities/randomUtilities.js";
 
 const calcularNumCabezas = (vacas, gallinas) => vacas + gallinas;
 

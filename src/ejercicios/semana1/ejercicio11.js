@@ -1,6 +1,6 @@
 "user strict";
 
-import { generarNumeroDecimalAleatorio } from "../../utilities/RandomUtilities.js";
+import { generarNumeroDecimalAleatorio } from "../../utilities/randomUtilities.js";
 
 const radio = generarNumeroDecimalAleatorio(1, 5).toFixed(2);
 

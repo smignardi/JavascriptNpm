@@ -1,5 +1,5 @@
 "use strict";
-import { generarEnteroAleatorio } from "../../utilities/RandomUtilities.js";
+import { generarEnteroAleatorio } from "../../utilities/randomUtilities.js";
 import { generarArrayAleatorio } from "../../utilities/arrayUtilities.js";
 
 const arrayLen = generarEnteroAleatorio(100, 200);

@@ -3,7 +3,7 @@
 import {
   generarEnteroAleatorio,
   generarNumeroDecimalAleatorio,
-} from "../../utilities/RandomUtilities.js";
+} from "../../utilities/randomUtilities.js";
 
 const n = generarEnteroAleatorio(4, 5);
 

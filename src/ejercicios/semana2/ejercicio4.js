@@ -1,6 +1,6 @@
 "use strict";
 
-import { generarEnteroAleatorio } from "../../utilities/RandomUtilities.js";
+import { generarEnteroAleatorio } from "../../utilities/randomUtilities.js";
 
 const n = generarEnteroAleatorio(15, 30);
 

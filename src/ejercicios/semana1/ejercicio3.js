@@ -1,6 +1,6 @@
 "user strict";
 
-import { generarNumeroDecimalAleatorio } from "../../utilities/RandomUtilities.js";
+import { generarNumeroDecimalAleatorio } from "../../utilities/randomUtilities.js";
 
 const lado = generarNumeroDecimalAleatorio(5, 500).toFixed(1);
 

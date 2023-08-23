@@ -1,6 +1,6 @@
 "use strict";
 
-import { generarEnteroAleatorio } from "../../utilities/RandomUtilities.js";
+import { generarEnteroAleatorio } from "../../utilities/randomUtilities.js";
 
 const calcularFactorial = (numero) => {
   let valorFactorial = 1;

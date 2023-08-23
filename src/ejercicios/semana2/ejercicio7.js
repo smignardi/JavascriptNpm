@@ -1,6 +1,6 @@
 "use strict";
 
-import { generarNumeroDecimalAleatorio } from "../../utilities/RandomUtilities.js";
+import { generarNumeroDecimalAleatorio } from "../../utilities/randomUtilities.js";
 
 const calcularSoles = (usd) => usd * 3.9;
 

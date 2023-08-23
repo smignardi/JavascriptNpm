@@ -1,6 +1,6 @@
 "user strict";
 
-import { generarNumeroDecimalAleatorio } from "../../utilities/RandomUtilities.js";
+import { generarNumeroDecimalAleatorio } from "../../utilities/randomUtilities.js";
 
 const peso = generarNumeroDecimalAleatorio(50, 100).toFixed(3);
 const altura = generarNumeroDecimalAleatorio(1.5, 2.0).toFixed(3);

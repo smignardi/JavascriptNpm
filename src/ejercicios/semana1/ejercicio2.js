@@ -1,6 +1,6 @@
 "user strict";
 
-import { generarNumeroDecimalAleatorio } from "../../utilities/RandomUtilities.js";
+import { generarNumeroDecimalAleatorio } from "../../utilities/randomUtilities.js";
 
 const cateto1 = generarNumeroDecimalAleatorio(1, 10).toFixed(1);
 const cateto2 = generarNumeroDecimalAleatorio(1, 10).toFixed(1);
